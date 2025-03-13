@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumar Sambhav</h1>
 <h3 align="center">A passionate Business Analyst (Data and Decision Science) from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=data0code&label=Profile%20views&color=0e75b6&style=flat" alt="data0code" /> </p>
-
 - 💼 I’m currently working at [Fractal Analytics](https://www.linkedin.com/company/fractal-analytics/posts/?feedView=all)
 
 - 📫 How to reach me **ksambhav249@gmail.com**
